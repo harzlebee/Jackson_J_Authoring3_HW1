@@ -1,0 +1,36 @@
+.bannerContainer {
+	padding: 0;
+}
+
+.sidebarC {
+	background-color: $background-color;
+	color: white;
+	position: relative;
+	header {
+		position: relative;
+		background-color: $burgundy-bg-color;
+		height: 110px;
+		font-size: 1.25rem;
+		margin: 0 -15px;
+		p {
+			display: inline;
+			padding-left: 10px;
+		}
+	}
+}
+
+.mainHead {
+	height: 110px;
+	background-color: white;
+}
+
+.clLogo {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	left: 40px;
+}
+
+.profileImg {
+	border: 3px solid white;
+}

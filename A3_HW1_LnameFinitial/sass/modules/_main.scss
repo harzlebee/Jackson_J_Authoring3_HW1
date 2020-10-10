@@ -1,0 +1,25 @@
+body {
+	font-family: $main-font-family;
+	font-size: $main-font-size;
+	background-color: $background-color;
+}
+
+#topPanel {
+	margin: 0;
+	position: relative;
+}
+
+#bottomPanel {
+	margin: 0;
+}
+
+.bodyC {
+	position: relative;
+	padding: 0;
+	background-color: #f1f1f1;
+	margin-right: -15px;
+}
+
+#mainImg {
+	width: 100%;
+}
